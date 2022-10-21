@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/LBM.dir/src/main.cpp.o CMakeFiles/LBM.dir/src/solver.cpp.o -o LBM  -lOpenGL -lGLX -lGLU -lglut 

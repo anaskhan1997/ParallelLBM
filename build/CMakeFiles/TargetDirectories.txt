@@ -1,0 +1,3 @@
+/home/anaskhan/Desktop/MAK/Project/ParLBM/build/CMakeFiles/LBM.dir
+/home/anaskhan/Desktop/MAK/Project/ParLBM/build/CMakeFiles/edit_cache.dir
+/home/anaskhan/Desktop/MAK/Project/ParLBM/build/CMakeFiles/rebuild_cache.dir
